@@ -1,7 +1,5 @@
 # Detecting Cancer Metastases on Gigapixel Pathology Images
 
-Team Members:  Naman Jain(nj2387), Syed Sarfaraz Akhtar(ssa2184), Varun Chanddra(vc2491)
-
 This project is implemented in 2 jupyter notebooks.
 1. adl_project_main : Contains training and evaluation code.
 2. adl_project_evaluate : Only for testing images on best selected model.
